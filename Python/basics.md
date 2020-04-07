@@ -31,6 +31,10 @@ tags: ""
     -   **syntax** → for index in values:
     -   So to _iterate over numbers_ → use _range(num)_ and _xrange(num)_ functions
 
+**Basic datastructures:**
+
+-   Lists: These are fundamental data structures and are like array but can contain heterogenous elements.
+
 **Printing:**
 
 -   print() → prints stuff implictly applying newline

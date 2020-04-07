@@ -21,12 +21,25 @@ Independent functions:
     -   xrange() has similar forms to range()
     -   xrange() faster than range()
 
--   map():
+-   _map():_
     		\- This method takes the method to be applied (1st arg) to the data to be applied on (2nd arg)
     -   Ex map(int, input().strip().split())  → basically typcasting list elements to int
 
--   min() and max():
+List/array functions:
+
+-   _min() and max():_
     		\- These methods find min and max values in an array, lists etc, min(array/list) and max(array/list)
+      
+
+-   List.remove(obj): 
+    -   This removes that obj from the list and if object is not present throws an error
+    -   Doesn't return anything
+    -   _Removes first occurence of an object_
+    -   single argument
+
+-   List.count(object):
+    -   Returns how many objects are present
+    -   Only takes single argument
 
 Class methods:
 
