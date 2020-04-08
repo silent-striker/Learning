@@ -13,7 +13,7 @@ Independent functions:
 -   _range() → python 2 and python 3_
     -   Normally range(num) returns a new list of numbers starting from 0 to num-1
     -   range(num), range(first, last), range(first, last, increment) → first is inclusive and last is exclusive
-    -   range() in python 3 behaves like xrange()
+    -   _range() in python 3_ behaves like xrange() → _returns an object not list_
 
 -   _xrange() → only python 2.x_
     -   xrange(num) returns an iterator (xrange object) and evaluates lazily.
