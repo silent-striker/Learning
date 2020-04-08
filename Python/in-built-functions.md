@@ -41,6 +41,16 @@ List/array functions:
     -   Returns how many objects are present
     -   Only takes single argument
 
+-   List.append(item):
+    -   Adds a single "item" to the end of list
+        -   item → number, string, dictionary, list etc
+    -   Doesn't return any value
+
+-   List.extend(list/tuple/set):
+    -   This extends a List by adding elements of another list, tuple and set one by one to the end of the former.
+    -   It returns no value
+    -   It takes only one argument i.e. either list, tuple or set
+
 Class methods:
 
 -   _strip():_ This strips all the trailing white spaces. This is used along with input(). _String class method_
