@@ -3,6 +3,7 @@ title: "Basics"
 tags: ""
 ---
 -   It is an interpreted language
+-   It is a high level language
 -   It is one of the most widely used languages
 -   Dynamically typed language
 -   It doesn't use braces "{}" but uses indentation for formating and scope detection in code
@@ -37,10 +38,15 @@ tags: ""
     -   _Iterate over a sequence_, sequence → array, list etc.
     -   **syntax** → for index in values:
     -   So to _iterate over numbers_ → use _range(num)_ and _xrange(num)_ functions
+    -   For i in seq, list,...:
+        -   i's value changes with every stage
 
 **Basic datastructures:**
 
 -   Lists: These are fundamental data structures and are like array but can contain heterogenous elements.
+    -   We access a list through index number '\[]'
+    -   For _multidimensional list_ access (\[[1,2],[3,4]]) etc we use _'list [for outer list][for inner list]'_
+    -   _Negative indexing_ is allowed in list negative indicies _represent values from the end_, Ex: list [-1] → last element, list [-5] → 5 th from the last
 
 -   Dictionaries: Python dictionaries are created by {} and have key:value pairs in them
 
