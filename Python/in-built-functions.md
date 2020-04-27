@@ -31,7 +31,7 @@ Independent functions:
 
 -   _sorted(object, key, reverse)_:
     -   It sortes an object → array, list etc
-    -   It returns an iterable object
+    -   It returns an iterable object but _doesn't change the original object_
     -   Takes one argument
     -   key and reverse are inbuilt fields that can be used by giving a value to them
         -   reverse = true → it sorts the given input in reverse order
