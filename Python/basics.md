@@ -44,11 +44,16 @@ tags: ""
 **Basic datastructures:**
 
 -   Lists: These are fundamental data structures and are like array but can contain heterogenous elements.
+    -   We declare an empty list as "list_name=\[]".
     -   We access a list through index number '\[]'
     -   For _multidimensional list_ access (\[[1,2],[3,4]]) etc we use _'list [for outer list][for inner list]'_
     -   _Negative indexing_ is allowed in list negative indicies _represent values from the end_, Ex: list [-1] → last element, list [-5] → 5 th from the last
 
 -   Dictionaries: Python dictionaries are created by {} and have key:value pairs in them
+    -   Empty dictionary → "dictionary_name={}"
+    -   We use "{ }" for declaring a dictionary
+    -   Dictionaries contain key, value pair together as "key : value".
+    -   key and value can be homogenous, heterogenous and can be list/tuple etc.
 
 **Printing:**
 
@@ -89,3 +94,9 @@ file → object must have write (ex file), default value = sys.stdout (screen)
     -   _Creation_ of _array_ requires _array module_, array.array(code, list)
 
 -   We can add elements from one list to another by the use of _+_ and _+=_, list_1 +/+= list_2
+
+-   **Handling precision in Python**:
+    -   We can use "%" → %0.2f means upto 2 decimals for a float value
+    -   We can use round(value, decimal_points) function
+        -   Ex: round(value, 2) → round value till 2 decimal points
+    -   We can use str.format() → "{0.2f}".format(value) means rounding value till 2 decimals.
