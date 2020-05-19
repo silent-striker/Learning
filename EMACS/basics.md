@@ -48,4 +48,4 @@ Saving work:
 Moving a dir and finding a file:
 * ctrl + x + d &rarr; shows directory currently in
 
-* ctrl + x + ctrl + f &rarr; create file (if not present) or search and open a file 
+* ctrl + x + ctrl + f &rarr; create file (if not present) or search and open a file d
