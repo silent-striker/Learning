@@ -32,12 +32,12 @@ tags: ""
         -   would remove file_name from staging area.
 
 -   git commit:
-    -
     -   extra options:
         -   \-m : adds commit message in "" after -m.
 
 -   git log:
     -   shows all the commits made.
+    -   use **--oneline** to display all the commits in shorter notation.
 
 -   git clone &lt; url > &lt; path where to store >:
     -   clones a remote repo and stores it at the path mentioned.
