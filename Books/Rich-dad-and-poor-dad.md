@@ -16,7 +16,12 @@
 </li>
 </ul>
 </li>
-<li><a href="#sec-3">3. Lesson 2: Why Teach financial literacy</a></li>
+<li><a href="#sec-3">3. Lesson 2: Why Teach financial literacy</a>
+<ul>
+<li><a href="#sec-3-1">3.1. The richest businessmen</a></li>
+<li><a href="#sec-3-2">3.2. Rule 1: learn the difference between assets and liability</a></li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
@@ -146,4 +151,24 @@
 
 # Lesson 2: Why Teach financial literacy<a id="sec-3" name="sec-3"></a>
 
--
+"Its not how much you make its how much you keep"
+-   Q) how to be successful, how to be rich?
+
+## The richest businessmen<a id="sec-3-1" name="sec-3-1"></a>
+
+-   Some of the richest businessmen at the time of 1923 later died penniless, or were in jail etc
+-   The reason for their tragedy was the great depression in 1929 which greatly affected these men.
+-   Robert tells that "We live in a world that changes constantly and there is always a possibility of a depression or any other drastic changes that one is not ready for".
+-   Often time people focus on money rather than their education as they need to be flexible if any drastic changes occur.
+-   ****Money without financial education is money soon to be gone****
+-   Often times people who win lottery money don't have the financial literacy to keep those millions going.
+-   ****If you want to be rich you have to be financially literate****
+-   A good financial foundation is required for anyone who aims at being rich on the long run.
+-   ****Accounting is the one of the most important subjects for financial literacy****
+
+## Rule 1: learn the difference between assets and liability<a id="sec-3-2" name="sec-3-2"></a>
+
+-   The rich acquire assets and poor and middle class acquire liabilities that they think are assests.
+-   ****IF you acquire assets you will be rich and its that simple****
+-   Educated adults don't want to unlearn and often times pay attention to complex things and demean simple ideas
+-   ****KISS**** principle &rarr; keep it simple stupid.
